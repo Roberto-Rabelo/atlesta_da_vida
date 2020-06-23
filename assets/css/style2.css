@@ -180,6 +180,13 @@ border-color:
   .spanespaco{
       margin-bottom: 2px !important;
   }
+  .imgdima{
+    margin-bottom: 30px;
+  }
+  .hrsite{
+    background-color: #d40853 !important;
+     border: 1px solid !important;
+  }
 /*-------------------------*/
 @media (max-width: 415px) {
   .text-center{
