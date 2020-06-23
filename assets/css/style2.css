@@ -187,12 +187,20 @@ border-color:
     background-color: #d40853 !important;
      border: 1px solid !important;
   }
+  .textDiv{
+    position: absolute;
+    top: auto;
+    left: 35%;
+    padding-top: 120px;
+    right: 50%;
+  
+ }
 /*-------------------------*/
 @media (max-width: 415px) {
   .text-center{
     display: none;
   }
-  .about-area{
+  .jogada{
     display: none;
   }
   .imgdima{
@@ -207,8 +215,15 @@ border-color:
     padding-right: 0px;
   }
   .slider-area .hero__caption p{
-    color: #d40853;
+    
     font-size: 20px;
     
   }
+  .textDiv{
+    display: none;
+  
+ }
+ .post-btn{
+   margin-left: 0px;
+ }
  }
