@@ -247,4 +247,7 @@ border-color:
   .mobile_menu .slicknav_menu .slicknav_btn{
     padding-right: 20px;
   }
+  .hr_contact{
+    width: 326px !important;
+  }
  }
