@@ -247,4 +247,7 @@ border-color:
   .spanespaco{
     font-size: 2rem;
   }
+  .mobile_menu .slicknav_menu .slicknav_btn{
+    padding-right: 20px;
+  }
  }
